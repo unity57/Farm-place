@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prototype 2 Eli",
+"productVersion": "0.1",
+"dataUrl": "Eli Prototype 2 lol.data.unityweb",
+"wasmCodeUrl": "Eli Prototype 2 lol.wasm.code.unityweb",
+"wasmFrameworkUrl": "Eli Prototype 2 lol.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
